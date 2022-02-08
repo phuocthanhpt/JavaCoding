@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class UniquePair {
     public static void main(String[] args) {
-        int[] a = {1, 4, 7, 1, 5, 7, 9, 0, 3, 4, 1, 5, 6, 8, 9, 9, 0};
+        int[] a = {1, 4, 7, 1, 5, 7, 9, 0, 3, 4, 1, 5, 6, 8, 9};
 
         ArrayList<Integer> numbers = new ArrayList<>();
         ArrayList<Integer> uniquePair = new ArrayList<>();
